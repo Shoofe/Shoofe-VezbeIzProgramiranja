@@ -38,6 +38,8 @@ public class Glavna {
 				matrica[i][j] = sc.nextInt();								
 			}
 		}
+		sc.close(); //Ignorisite, samo zatvaram skener
+		
 		//Kada smo ucitali sve brojeve u matricu, samo treba da prodjemo kroz njih i prebrojimo sve ne-nula elemente i
 		//sve nula elemente i da vidimo kojih ima vise
 		
