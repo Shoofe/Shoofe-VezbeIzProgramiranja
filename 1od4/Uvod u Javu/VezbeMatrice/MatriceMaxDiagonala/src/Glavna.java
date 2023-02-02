@@ -48,8 +48,7 @@ public class Glavna {
 		int[][] matrica = new int[n][n]; //kreiramo 2d niz (matricu) formata nxn
 		
 		//for petljom iteriramo kroz svako polje matrice i unosimo brojeve jedan po jedan
-		//napravicu i funkciju drawMatrix() koju vi necete morati praviti na kolokvijumu cisto radi citkosti programa, mozda
-		//ociglednije bude samo kako radi
+		//napravicu i funkciju drawMatrix() koju vi necete morati praviti 
 		
 		//Iteriramo ovako za svaku vrednost i i j kroz celu matricu (mozete videti kako tacno sa funkcijom drawMatrix()
 		for(int i = 0; i < n; i++) {
