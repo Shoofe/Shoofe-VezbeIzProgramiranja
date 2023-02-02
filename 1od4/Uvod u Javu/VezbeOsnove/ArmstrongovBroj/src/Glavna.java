@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-        /*Ispisati program koji učitava prirodan broj a (a < 100000) i 
+        	/*Ispisati program koji ucita int a (a < 100000) i 
 		 *proverava da li je taj broj Armstrongov broj.
 		 *Armstrongov broj je n-tocifreni prirodni broj koji je jednak zbiru 
 		 *n-tih stepena cifara tog broja. Npr. (153).
