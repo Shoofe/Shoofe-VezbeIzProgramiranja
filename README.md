@@ -1,2 +1,2 @@
-# PMFIT
-Skup uradjenih kolokvijuma svih predmeta sa IT smera PMF-a NS
+# Vezbe iz programiranja
+Skup uradjenih javno dostupnih zadataka
