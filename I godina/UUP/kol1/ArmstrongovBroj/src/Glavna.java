@@ -31,6 +31,7 @@ public class Glavna {
 			//Ako uslov nije ispunjen stampamo ovo opet
 			System.out.println("Unesite pozitivan ceo broj manji od 10 000");
 			}
+		sc.close(); //Ignorisite, samo zatvaram skener
 		
 		//Kada izadjemo iz petlje znamo da je broj pozitivan i manji od 10000
 		
