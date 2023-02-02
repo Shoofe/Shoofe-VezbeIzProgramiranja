@@ -1,4 +1,6 @@
 
+//Program koji ucitava godine i ispisuje da li osoba sa toliko godina sme da pije u USA i u svetu
+
 public class Glavna {
 
 	public static void main(String[] args) {
