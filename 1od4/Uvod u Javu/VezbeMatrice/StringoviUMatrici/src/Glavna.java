@@ -33,7 +33,7 @@ public class Glavna {
 					matrica[i][j] = sc.next();
 				}
 			}
-			
+			sc.close();
 			//Iteriramo kroz matricu i trazimo najduzi string
 			//kasnije ce nam trebati duzina najduzeg radi formatiranja, pa cemo odmah i to da uzmemo
 			String najduziString = ""; //Moramo da ga instanciramo jer cemo zvati metodu .length na njemu,

@@ -22,9 +22,9 @@ import java.util.Scanner;
  * 
  * primer: za n = 3  
  * 
- * [4	-2	3]
- * [2	3	4]
- * [-7 	5	4]
+ * [ 4 	 -2	3]
+ * [ 2	  3	4]
+ * [-7 	  5	4]
  * 
  * broj elemenata manji od maksimuma dijagonale (4) je 4
  */
