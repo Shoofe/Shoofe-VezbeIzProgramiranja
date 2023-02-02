@@ -24,8 +24,7 @@ public class Glavna {
 		int[][] matrica = new int[n][n]; //kreiramo 2d niz (matricu) formata nxn
 		
 		//for petljom iteriramo kroz svako polje matrice i unosimo brojeve jedan po jedan
-		//napravicu i funkciju drawMatrix() koju vi necete morati praviti na kolokvijumu cisto radi citkosti programa, mozda
-		//ociglednije bude samo kako radi
+		//napravicu i funkciju drawMatrix() koju vi necete morati praviti 
 		
 		//Iteriramo ovako za svaku vrednost i i j kroz celu matricu (mozete videti kako tacno sa funkcijom drawMatrix()
 		for(int i = 0; i < n; i++) {
@@ -47,8 +46,7 @@ public class Glavna {
 		//za svaku vrednost iz matrice, ako je ta vrednost 0 cemo da smanjimo promenjivu za 1, a ako je ne-nula, povecamo
 		//na kraju cele matrice cemo imati u toj promenjivoj negativan broj samo ako je matrica retka tj ima vise 
 		//nula elemenata
-		//I da, ovo se moze uraditi u prvoj petlji, al hajd` da uradimo u dve cisto ako nam asistenti budu nesto neraspolozeni
-		//pa malo zezaju
+		//I da, ovo se moze uraditi u prvoj petlji, al hajd` da uradimo u dve cisto ako nas neko bude pitao tako
 		
 		int viseManje = 0;
 		for(int i = 0; i < n; i++) {
